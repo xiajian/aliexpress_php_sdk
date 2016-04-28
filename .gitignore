@@ -1,0 +1,35 @@
+.bundle/
+.yardoc
+coverage/
+doc/
+pkg/
+spec/reports/
+tmp/
+
+# Ignore IDE
+.idea
+
+# Ignore bundler config
+.bundle
+
+#mac os
+.DS_Store
+._.DS_Store
+
+**/.DS_Store
+
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+*.swo
+*.swp
+
+**/*.swo
+**/*.swp
